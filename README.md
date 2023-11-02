@@ -1,6 +1,6 @@
 # Statistics Refresh for Data Analytics and Machine Learning
 
-Welcome to my statistics refresher repository! I'm on a journey to re-learn statistics for data analytics and machine learning, drawing insights from various sources including YouTube tutorials and books like "Statistics for Data Scientists". I'm excited to share my notes and you can contribute your own insights, comments, and lessons.
+Welcome to my statistics refresher repository! I'm on a journey to re-learn statistics for data analytics and machine learning, drawing insights from various sources including YouTube tutorials and books like ["Practical Statistics for Data Scientists"](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_4?crid=8O51IX8FMADS&keywords=Practical+Statistics+for+Data+Scientists&qid=1698963233&sprefix=practical+statistics+for+data+scientists%2Caps%2C112&sr=8-4). I'm excited to share my notes and you can contribute your own insights, comments, and lessons.
 
 ## Why Refresh Statistics for Data Analytics and Machine Learning?
 
